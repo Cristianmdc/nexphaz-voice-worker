@@ -1,0 +1,13 @@
+conformer
+s3tokenizer
+librosa
+resemble-perth
+huggingface_hub
+safetensors
+transformers
+diffusers
+torchaudio
+torchvision
+einops
+requests
+runpod>=1.7.7
